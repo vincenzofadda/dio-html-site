@@ -13,6 +13,9 @@ table thead th {
     background-color: black;
     color: white;
 }
+form {
+    padding: 15px 0px 15px 0px;
+}
 .wrapper {
     width: 1200px;
     display: flex;
