@@ -16,6 +16,9 @@ table thead th {
 form {
     padding: 15px 0px 15px 0px;
 }
+form label {
+    text-align: right;
+}
 .wrapper {
     width: 1200px;
     display: flex;
